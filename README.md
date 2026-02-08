@@ -25,4 +25,4 @@ This project implements a smart room light controller using Arduino, a touch sen
 
 ## Future Improvements
 - ESP-based Wi-Fi control
-- Mobile / voice integration
+- Mobile /voice integration
